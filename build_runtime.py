@@ -7,11 +7,14 @@ Examples:
 from __future__ import annotations
 
 import argparse
+import contextlib
 import hashlib
+import io
 import json
 import shutil
 import subprocess
 import sys
+import warnings
 import zipfile
 from pathlib import Path
 
@@ -37,16 +40,41 @@ def export_onnx(checkpoint_path: Path, output: Path) -> dict:
     image_size = int(checkpoint.get("image_size", 160))
     model.eval()
     output.parent.mkdir(parents=True, exist_ok=True)
-    torch.onnx.export(
-        model,
-        torch.zeros(1, 3, image_size, image_size),
-        output,
-        input_names=["images"],
-        output_names=["logits"],
-        dynamic_axes={"images": {0: "batch"}, "logits": {0: "batch"}},
-        opset_version=17,
-        dynamo=False,
-    )
+    example = torch.zeros(1, 3, image_size, image_size)
+    try:
+        # PyTorch 2.9+ recommends the torch.export-based exporter. It also
+        # avoids the deprecation warning emitted by the legacy exporter.
+        # Capture exporter progress because it may contain Unicode symbols
+        # that cannot be written by a Windows GBK console.
+        with contextlib.redirect_stdout(io.StringIO()), warnings.catch_warnings():
+            warnings.filterwarnings("ignore", category=FutureWarning)
+            torch.onnx.export(
+                model,
+                (example,),
+                output,
+                input_names=["images"],
+                output_names=["logits"],
+                dynamic_shapes=({0: "batch"},),
+                opset_version=18,
+                dynamo=True,
+            )
+    except Exception as exc:
+        # Keep releases usable with older PyTorch versions or models that the
+        # new exporter cannot lower yet. The fallback is intentionally narrow
+        # and reports why the modern path was not used.
+        print(f"warning: modern ONNX exporter failed; using legacy exporter: {exc!r}", file=sys.stderr)
+        with warnings.catch_warnings():
+            warnings.filterwarnings("ignore", message=".*legacy TorchScript-based ONNX export.*")
+            torch.onnx.export(
+                model,
+                example,
+                output,
+                input_names=["images"],
+                output_names=["logits"],
+                dynamic_axes={"images": {0: "batch"}, "logits": {0: "batch"}},
+                opset_version=17,
+                dynamo=False,
+            )
     return checkpoint
 
 
