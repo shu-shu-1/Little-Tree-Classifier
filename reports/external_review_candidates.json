@@ -1,0 +1,482 @@
+[
+  {
+    "id": 0,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\西安游·图\\兴庆宫.png",
+    "sampling_group": "西安游·图"
+  },
+  {
+    "id": 1,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\西安游·图\\兵马俑博物馆.png",
+    "sampling_group": "西安游·图"
+  },
+  {
+    "id": 2,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\西安游·图\\古城墙1.png",
+    "sampling_group": "西安游·图"
+  },
+  {
+    "id": 3,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\西安游·图\\古城墙2.png",
+    "sampling_group": "西安游·图"
+  },
+  {
+    "id": 4,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\西安游·图\\大雁塔.png",
+    "sampling_group": "西安游·图"
+  },
+  {
+    "id": 5,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\西安游·图\\长安不夜城.png",
+    "sampling_group": "西安游·图"
+  },
+  {
+    "id": 6,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\2024.5.1-5.3西安\\2024_05_02_13_43_IMG_1093.JPG",
+    "sampling_group": "2024.5.1-5.3西安"
+  },
+  {
+    "id": 7,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\2024.5.1-5.3西安\\2024_05_02_15_38_IMG_1092.JPG",
+    "sampling_group": "2024.5.1-5.3西安"
+  },
+  {
+    "id": 8,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\2024.5.1-5.3西安\\2024_05_02_15_49_IMG_1094.JPG",
+    "sampling_group": "2024.5.1-5.3西安"
+  },
+  {
+    "id": 9,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\2024.5.1-5.3西安\\2024_05_02_17_05_IMG_1103.JPG",
+    "sampling_group": "2024.5.1-5.3西安"
+  },
+  {
+    "id": 10,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\2024.5.1-5.3西安\\2024_05_02_17_05_IMG_1104.JPG",
+    "sampling_group": "2024.5.1-5.3西安"
+  },
+  {
+    "id": 11,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\2024.5.1-5.3西安\\2024_05_03_11_19_IMG_1154.JPG",
+    "sampling_group": "2024.5.1-5.3西安"
+  },
+  {
+    "id": 12,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\1253229522410lvdb50q8st.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 13,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\a209abf3a2b84272887bde5fcba656c8.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 14,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\florr-io-1280x720.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 15,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\R-C.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 16,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\R-C.png",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 17,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20230723_21_10_50_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 18,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20230724_22_05_01_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 19,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20230724_22_05_02_Pro (2).jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 20,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20230724_22_05_02_Pro (3).jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 21,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20230724_22_05_02_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 22,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20231229_19_04_32_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 23,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20231229_19_04_35_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 24,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20231229_19_04_59_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 25,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20231229_19_05_12_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 26,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20231229_19_05_14_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 27,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20231229_19_05_17_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 28,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20231229_19_05_18_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 29,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20231229_19_05_25_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 30,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\本机照片\\WIN_20231229_19_05_28_Pro.jpg",
+    "sampling_group": "本机照片"
+  },
+  {
+    "id": 31,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2024-07-29.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 32,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2024-07-30.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 33,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2024-07-31.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 34,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2024-08-26.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 35,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2024-08-27.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 36,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2024-09-22.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 37,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2024-10-19.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 38,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2024-11-22.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 39,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2025-01-10.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 40,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Bing_2025-02-11.jpg",
+    "sampling_group": "root_bing"
+  },
+  {
+    "id": 41,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\wallhaven-1pzol3.jpg",
+    "sampling_group": "root_wallpaper"
+  },
+  {
+    "id": 42,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\wallhaven-e7651w.jpg",
+    "sampling_group": "root_wallpaper"
+  },
+  {
+    "id": 43,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\wallhaven-o59gvl.jpg",
+    "sampling_group": "root_wallpaper"
+  },
+  {
+    "id": 44,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\spotlight21.jpg",
+    "sampling_group": "root_wallpaper"
+  },
+  {
+    "id": 45,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\壁纸\\放牧和饲养_2024-05-12.png",
+    "sampling_group": "wallpaper_folder"
+  },
+  {
+    "id": 46,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\120171972_p0.jpeg",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 47,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\R-C1.jpg",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 48,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\无标题.png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 49,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\屏幕截图 2023-11-25 084031.png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 50,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\146494011_p0.png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 51,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\极客信奥2.png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 52,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\146839914_p0.png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 53,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\微信图片_20240303170312.webp",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 54,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\微信图片_20251130082047_5_55.jpg",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 55,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\微信图片_20241004155939.jpg",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 56,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\微信图片_20230828212104.jpg",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 57,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\微信图片_20231217114634.jpg",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 58,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\anime_2024-11-30_19-37-26.jpg",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 59,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\anime_2024-11-30_19-51-51.webp",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 60,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\909d12ba-8d06-4775-b17f-7679a8d8c3ad.png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 61,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\10ade9f8258eea9d11eb35750428753e8c20ad7d.webp",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 62,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\ANIME-PICTURES.NET_-_918540-3000x4200-original-ekina+(1217)-single-long+hair-tall+image-looking+at+viewer.png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 63,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\微信图片_20250212224535.jpg",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 64,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\146665041_p0.png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 65,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\Konachan.com - 391980 aqua_eyes black_hair breasts cleavage dress elbow_gloves flowers garter gloves honkai_(series) kirisamede_gzr long_hair necklace tree water.png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 66,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\tupian(3).png",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 67,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\141581431_p0_master1200.jpeg",
+    "sampling_group": "root_random"
+  },
+  {
+    "id": 68,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\阮·梅\\微信图片_20251228000254_15_55.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 69,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\其他原神图片\\12bf3485d7211c228d1eae248dc5fde5_2422062907017699884.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 70,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\阮·梅\\微信图片_20251228000318_16_55.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 71,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\丝柯克\\微信图片_2025-06-21_181740_229.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 72,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\遐蝶\\image.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 73,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\遐蝶\\Konachan.com_-_388281_bones_bow_butterfly_dress_elbow_gloves_gloves_headdress_long_hair_moon_night_pointed_ears_purple_eyes_purple_hair_sky_thighhighs_water_yu_e_baba.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 74,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\八重神子\\微信图片_20250707151448_15825.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 75,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\白圣女与黑牧师\\111174905.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 76,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\遐蝶\\image (4).png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 77,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\芙宁娜︱芙芙\\42e03871b471a71147588f49e27548a4_1879758601129761445.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 78,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\八重神子\\微信图片_20250707151447_15822.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 79,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\千织\\539f4943ad9d9a03cd44f9f0f402538c_83866818678677101551.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 80,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\八重神子\\headdress houkisei long_hair miko no_bra pink_hair purple_eyes sideboob yae_miko.jpeg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 81,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\阮·梅\\微信图片_20251228000207_10_55.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 82,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\散兵 - 来自能猫\\散兵（散喵）.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 83,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\灵砂\\37892c406dbd4334908084a0ad99a337_6354349597092201930.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 84,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\遐蝶\\xzg_530828.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 85,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\其他原神图片\\钟离（帝君远征）.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 86,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\芙宁娜︱芙芙\\芙宁娜（你我）.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 87,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\其他原神图片\\落樱.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 88,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\那维莱特 - 来自能猫\\20230712112955_88965.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 89,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\遐蝶\\xzg_540382.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 90,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\遐蝶\\xzg_193642.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 91,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\遐蝶\\遐蝶 6.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 92,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\丝柯克\\丝柯克 5.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 93,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\叶瞬光︱小光师姐\\a26cef84420338979434541d0767ac6c.jpg",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 94,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\昔涟\\image_20_.png",
+    "sampling_group": "character_random"
+  },
+  {
+    "id": 95,
+    "path": "D:\\Users\\张秫\\onedrive\\OneDrive - 小树科技\\图片\\芙宁娜︱芙芙\\芙宁娜（乐园）.jpg",
+    "sampling_group": "character_random"
+  }
+]

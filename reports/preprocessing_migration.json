@@ -1,0 +1,37 @@
+[
+  {
+    "checkpoint": "checkpoints\\balanced.pt",
+    "preprocessing": "stretch",
+    "excluded": false
+  },
+  {
+    "checkpoint": "checkpoints\\resnet18_feature.pt",
+    "preprocessing": "stretch",
+    "excluded": false
+  },
+  {
+    "checkpoint": "checkpoints\\resnet18_full.pt",
+    "preprocessing": "stretch",
+    "excluded": false
+  },
+  {
+    "checkpoint": "checkpoints\\resnet18_capped.pt",
+    "preprocessing": "stretch",
+    "excluded": false
+  },
+  {
+    "checkpoint": "checkpoints\\resnet18_final.pt",
+    "preprocessing": "center_crop",
+    "excluded": false
+  },
+  {
+    "checkpoint": "checkpoints\\best.pt",
+    "preprocessing": "center_crop",
+    "excluded": false
+  },
+  {
+    "checkpoint": "checkpoints\\resnet18_external_aug.pt",
+    "preprocessing": "center_crop",
+    "excluded": true
+  }
+]

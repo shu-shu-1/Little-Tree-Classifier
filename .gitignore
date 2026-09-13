@@ -1,0 +1,9 @@
+data/raw/
+data/split/
+checkpoints/
+__pycache__/
+*.pyc
+release/
+*_montage.jpg
+external_stats.txt
+checkpoints/*.onnx

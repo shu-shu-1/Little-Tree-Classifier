@@ -1,0 +1,35 @@
+name: Bug report
+description: 报告训练、导出或 classifier-runtime 的可复现问题
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请不要上传个人图片、私密数据、访问令牌或未公开的模型包。
+  - type: input
+    id: version
+    attributes:
+      label: 项目或 runtime 版本
+      placeholder: "例如 1.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 环境
+      description: Python、操作系统、CPU/GPU 和关键依赖版本。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 请提供最小、可公开复现的命令和输入。
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: 日志或错误信息
+      render: text

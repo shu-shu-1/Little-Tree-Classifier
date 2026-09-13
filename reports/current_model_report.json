@@ -1,0 +1,14 @@
+{
+  "current_checkpoint": "checkpoints/best.pt",
+  "training_data": "data/split_supp_clean",
+  "model": "resnet18",
+  "preprocessing": "center_crop",
+  "imbalance_strategy": "WeightedRandomSampler",
+  "internal_test_accuracy": 0.9086021505376344,
+  "internal_test_macro_f1": 0.9281935504990586,
+  "internal_test_balanced_accuracy": 0.9430555555555555,
+  "external_reviewed_manifest": "reports/external_reviewed.jsonl",
+  "external_eligible_count": 35,
+  "external_accuracy_after_exact_overlap_exclusion": 0.7428571428571429,
+  "external_limitations": "Only anime/city/landscape/nature are covered; 29 exact training overlaps were excluded."
+}

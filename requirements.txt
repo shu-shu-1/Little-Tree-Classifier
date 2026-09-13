@@ -1,0 +1,11 @@
+torch>=2.2
+torchvision>=0.17  # optional; train.py falls back to a small CNN when unavailable
+Pillow>=10.0
+requests>=2.31
+beautifulsoup4>=4.12
+tqdm>=4.66
+
+# Release tooling and standalone inference worker.
+onnx>=1.16
+onnxruntime>=1.18
+pyinstaller>=6.0

@@ -1,0 +1,45 @@
+{
+  "reviewed_images": 96,
+  "label_counts": {
+    "city": 11,
+    "unknown": 32,
+    "nature": 5,
+    "landscape": 6,
+    "anime": 42
+  },
+  "known_class_images": 35,
+  "eligible_label_counts": {
+    "city": 10,
+    "nature": 3,
+    "landscape": 1,
+    "anime": 21
+  },
+  "sampling_groups": {
+    "西安游·图": 6,
+    "2024.5.1-5.3西安": 6,
+    "本机照片": 19,
+    "root_bing": 10,
+    "root_wallpaper": 4,
+    "wallpaper_folder": 1,
+    "root_random": 22,
+    "character_random": 28
+  },
+  "exact_duplicate_groups": [],
+  "exact_training_overlap_count": 29,
+  "perceptual_duplicate_check": {
+    "report": "D:\\code\\图片分类\\reports\\external_nearduplicate_candidates.json",
+    "method": "64-bit DCT pHash; Hamming <= 6 candidate review threshold",
+    "training_images_scanned": 4315,
+    "candidate_pairs": 0,
+    "scope": "SHA256去重后的eligible external images；详见感知哈希检查脚本与报告",
+    "limitation": "阈值内无候选不保证无强裁剪、镜像或较大编辑的重复。"
+  },
+  "limitations": [
+    "仅作固定外部测试，不得用于训练、调参、自动清洗或挑选预测阈值。",
+    "八类中只覆盖 anime/city/landscape/nature；pets/cars/space/abstract 未覆盖，不能宣称八类泛化准确率。",
+    "人物摄影、截图、文字及无明确对应类的游戏宣传图标为 unknown，不纳入闭集准确率；可单列拒识表现。",
+    "primary label用于严格准确率，accepted_labels用于另报包含语义重叠的宽松准确率，不得混为一个指标。",
+    "SHA256发现29张原始集重叠并排除；剩余35张与4315张raw/split的pHash Hamming<=6无候选。该检查仍可能漏掉大幅裁剪或编辑。",
+    "city 包括建筑/历史建筑，nature 包括野生动物与植物，pets 指家养宠物。"
+  ]
+}
